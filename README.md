@@ -1,3 +1,4 @@
+![IBM Logo](IBM Logo.png)
 # IBM Data Analyst Professional Certificate
 
 ## 🧠 What you'll learn
