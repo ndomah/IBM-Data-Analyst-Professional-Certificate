@@ -12,7 +12,7 @@
 ## 📜 Professional Certificate - 11 course series
 1. Introduction to Data Analytics
 
-  **Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
+- **Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
   
 - Explain what Data Analytics is and the key steps in the Data Analytics process
 
