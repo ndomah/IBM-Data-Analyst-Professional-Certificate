@@ -10,7 +10,7 @@
 ✅ Gain technical experience through hands on labs and projects and build a portfolio to showcase your work
 
 ## 📜 Professional Certificate - 11 course series
-1. Introduction to Data Analytics
+[1. Introduction to Data Analytics](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/01.%20Introduction%20to%20Data%20Analytics)
 
 - **Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
   
