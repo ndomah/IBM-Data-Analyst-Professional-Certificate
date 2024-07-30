@@ -82,5 +82,85 @@
 
 ![Cert5](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Python%20Project%20for%20Data%20Science%20Certificate-1.png)
 
-[6. 
+[6. Databases and SQL for Data Science with Python](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+
+- **Skills: Python Programming, Cloud Databases, Relational Database Management Systems (RDBMS), SQL, Jupyter notebooks**
+
+- Analyze data within a database using SQL and Python
+
+- Construct basic to intermediate level SQL queries using DML commands
+
+- Create a relational database and work with multiple tables using DDL commands
+
+- Compose more powerful queries with advanced SQL techniques like views, transactions, stored procedures, and joins
+
+![Cert6](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python%20Certificate-1.png)
+
+[7. Data Analysis with Python](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python)
+
+- **Skills: Model Selection, Data Analysis, Python Programming, Data Visualization, Predictive Modeling**
+
+- Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data
+
+- Manipulate data using dataframes, summarize data, understand data distribution, perform correlation and create data pipelines
+
+- Perform exploratory data analysis and apply analytical techniques to real-word datasets using libraries such as Pandas, Numpy and Scipy
+
+- Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
+
+![Cert7](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Data%20Analysis%20with%20Python%20Certificate-1.png)
+
+[8. Data Visualization with Python](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
+
+- **Skills: Python Programming, Dashboards and Charts, dash, Data Visualization, Matplotlib**
+
+- Implement data visualization techniques and plots using Python libraries, such as Matplotlib, Seaborn, and Folium to tell a stimulating story
+
+-  Create advanced visualizations such as waffle charts, word clouds, regression plots, maps with markers, & choropleth maps
+
+-  Create different types of charts and plots such as line, area, histograms, bar, pie, box, scatter, and bubble
+
+-  Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
+
+![Cert8](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Data%20Visualization%20with%20Python%20Certificate-1.png)
+
+[9. IBM Data Analyst Capstone Project](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project)
+
+- **Skills: Data Analysis, Python Programming, Dashboard, Data Visualization, SQL and RDBMS**
+
+- Apply different techniques to collect and wrangle data
+
+- Create a data analysis report and a compelling presentation
+
+- Showcase your Data Analysis and Visualization skills
+
+- Demonstrate proficiency with various Python Libraries
+
+![Cert9](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/IBM%20Data%20Analyst%20Capstone%20Project%20Certificate-1.png)
+
+[10. Generative AI: Enhance your Data Analytics Career](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/10.%20Generative%20AI%20-%20Enhance%20your%20Data%20Analytics%20Career)
+
+- **Skills: Data Analysis, Querying Databases, Data Generation, Generative AI, Data Augmenting**
+
+- Describe how you can use Generative AI tools and techniques in the context of data analytics across industries
+
+- Evaluate real-world case studies showcasing the successful application of Generative AI in deriving meaningful insights
+
+- Implement various data analytic processes such as data preparation, analysis, visualization and storytelling using Generative AI tools
+
+-  Analyze the ethical considerations and challenges associated with using Generative AI in data analytics
+
+![Cert10](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/10.%20Generative%20AI%20-%20Enhance%20your%20Data%20Analytics%20Career/Generative%20AI%20-%20Enhance%20your%20Data%20Analytics%20Career%20Certificate-1.png)
+
+[11. Data Analyst Career Guide and Interview Preparation](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/11.%20Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation)
+
+- Describe the role of a data analyst and some career path options as well as the prospective opportunities in the field
+
+- Summarize what a candidate can expect during a typical job interview cycle, different types of interviews, and how to prepare for interviews
+
+- Explain how to build a foundation for a job search, including researching job listings, writing a resume, and making a portfolio of work
+
+- Explain how to give an effective interview, including techniques for answering questions and how to make a professional personal presentation
+
+![Cert11](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/11.%20Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation/Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation%20Certificate-1.png)
 
