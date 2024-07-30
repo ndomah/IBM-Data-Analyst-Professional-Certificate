@@ -1,4 +1,4 @@
-![IBM Logo](IBM Logo.png)
+![IBM Logo](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Logo.png)
 # IBM Data Analyst Professional Certificate
 
 ## 🧠 What you'll learn
