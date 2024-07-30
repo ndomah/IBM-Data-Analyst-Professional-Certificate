@@ -24,6 +24,8 @@
   
 - Describe the data analysis process involving collecting, wrangling, mining, and visualizing data
 
+![Cert](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/01.%20Introduction%20to%20Data%20Analytics/Introduction%20to%20Data%20Analytics%20Certificate-1.png)
+
 2. Excel Basics for Data Analysis
 
 - 
