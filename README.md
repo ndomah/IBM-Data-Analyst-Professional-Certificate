@@ -9,6 +9,8 @@
 
 ✅ Gain technical experience through hands on labs and projects and build a portfolio to showcase your work
 
+![IBM Cert](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Certificate.png)
+
 ## 📜 Professional Certificate - 11 course series
 [1. Introduction to Data Analytics](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/01.%20Introduction%20to%20Data%20Analytics)
 
@@ -21,6 +23,9 @@
 - Differentiate between different data roles such as Data Engineer, Data Analyst, Data Scientist, Business Analyst, and Business Intelligence Analyst
   
 - Describe the data analysis process involving collecting, wrangling, mining, and visualizing data
+
+2. Excel Basics for Data Analysis
+
+- 
   
 
-![IBM Cert](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Certificate.png)
