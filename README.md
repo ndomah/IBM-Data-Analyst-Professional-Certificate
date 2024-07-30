@@ -52,7 +52,7 @@
 
 - Access and web scrape data using APIs and Python libraries like Beautiful Soup
 
-![Cert3](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos%20Certificate-1.png)
+![Cert3]()
 
 [4. Python Project for Data Science](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
@@ -66,5 +66,5 @@
 
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook
 
-![Cert4](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Python%20for%20Data%20Science%2C%20AI%20%26%20Development%20Certificate-1.png)
+![Cert4]()
 
