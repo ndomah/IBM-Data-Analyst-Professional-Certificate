@@ -28,6 +28,8 @@
 
 [2. Excel Basics for Data Analysis](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/02.%20Excel%20Basics%20for%20Data%20Analysis)
 
+- **Skills: Data Analysis, Microsoft Excel, IBM Cognos Analytics, Dashboard, Data Visualization**
+
 - Display working knowledge of Excel for Data Analysis
 
 - Employ data quality techniques to import and clean data in Excel
@@ -38,5 +40,31 @@
 
 [Cert2](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/02.%20Excel%20Basics%20for%20Data%20Analysis/Excel%20Basics%20for%20Data%20Analysis%20Certificate-1.png)
 
+[3. Python for Data Science, AI & Development](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 
+- **Skills: Data Science, Data Analysis, Python Programming, Numpy, Pandas**
+
+- Learn Python - the most popular programming language and for Data Science and Software Development
+
+- Demonstrate proficiency in using Python libraries such as Pandas & Numpy, and developing code using Jupyter Notebooks
+
+- Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes
+
+- Access and web scrape data using APIs and Python libraries like Beautiful Soup
+
+[Cert3](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos%20Certificate-1.png)
+
+[4. Python Project for Data Science](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+
+- **Skills: Data Science, Data Analysis, Python Programming, Pandas, Jupyter notebooks**
+
+- Play the role of a Data Scientist / Data Analyst working on a real project
+
+- Apply Python fundamentals, Python data structures, and working with data in Python
+
+- Demonstrate your Skills in Python - the language of choice for Data Science and Data Analysis
+
+- Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook
+
+[Cert4](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Python%20for%20Data%20Science%2C%20AI%20%26%20Development%20Certificate-1.png)
 
