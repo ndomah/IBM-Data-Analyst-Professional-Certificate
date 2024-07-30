@@ -24,10 +24,19 @@
   
 - Describe the data analysis process involving collecting, wrangling, mining, and visualizing data
 
-![Cert](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/01.%20Introduction%20to%20Data%20Analytics/Introduction%20to%20Data%20Analytics%20Certificate-1.png)
+![Cert1](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/01.%20Introduction%20to%20Data%20Analytics/Introduction%20to%20Data%20Analytics%20Certificate-1.png)
 
-2. Excel Basics for Data Analysis
+[2. Excel Basics for Data Analysis](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/02.%20Excel%20Basics%20for%20Data%20Analysis)
 
-- 
-  
+- Display working knowledge of Excel for Data Analysis
+
+- Employ data quality techniques to import and clean data in Excel
+
+- Perform basic spreadsheet tasks including navigation, data entry, and using formulas
+
+- Analyze data in spreadsheets by using filter, sort, look-up functions, as well as pivot tables
+
+[Cert2](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/02.%20Excel%20Basics%20for%20Data%20Analysis/Excel%20Basics%20for%20Data%20Analysis%20Certificate-1.png)
+
+
 
