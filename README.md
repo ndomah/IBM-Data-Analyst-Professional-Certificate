@@ -28,7 +28,7 @@
 
 [2. Excel Basics for Data Analysis](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/02.%20Excel%20Basics%20for%20Data%20Analysis)
 
-- **Skills: Data Analysis, Microsoft Excel, IBM Cognos Analytics, Dashboard, Data Visualization**
+- **Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Pivot Table**
 
 - Display working knowledge of Excel for Data Analysis
 
@@ -40,7 +40,21 @@
 
 ![Cert2](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/02.%20Excel%20Basics%20for%20Data%20Analysis/Excel%20Basics%20for%20Data%20Analysis%20Certificate-1.png)
 
-[3. Python for Data Science, AI & Development](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+[3. Data Visualization and Dashboards with Excel and Cognos](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+
+- **Skills: Data Analysis, Microsoft Excel, IBM Cognos Analytics, Dashboard, Data Visualization**
+
+- Create basic visualizations such as line graphs, bar graphs, and pie charts using Excel spreadsheets
+
+- Construct advanced charts and visualizations such as Treemaps, Sparklines, Histogram, Scatter Plots, and Filled Map Charts
+
+- Explain the important role charts play in telling a data-driven story
+
+- Build and share interactive dashboards using Excel and Cognos Analytics
+
+![Cert3](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos%20Certificate-1.png)
+
+[4. Python for Data Science, AI & Development](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
 - **Skills: Data Science, Data Analysis, Python Programming, Numpy, Pandas**
 
@@ -52,9 +66,9 @@
 
 - Access and web scrape data using APIs and Python libraries like Beautiful Soup
 
-![Cert3]()
+![Cert4](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Python%20for%20Data%20Science%2C%20AI%20%26%20Development%20Certificate-1.png)
 
-[4. Python Project for Data Science](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+[5. Python Project for Data Science](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/tree/main/05.%20Python%20Project%20for%20Data%20Science)
 
 - **Skills: Data Science, Data Analysis, Python Programming, Pandas, Jupyter notebooks**
 
@@ -66,5 +80,7 @@
 
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook
 
-![Cert4]()
+![Cert5](https://github.com/ndomah/IBM-Data-Analyst-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Python%20Project%20for%20Data%20Science%20Certificate-1.png)
+
+[6. 
 
