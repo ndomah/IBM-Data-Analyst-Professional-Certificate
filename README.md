@@ -25,7 +25,9 @@
   
   
 3. Excel Basics for Data Analysis
-   
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
+
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
   ✅ 
@@ -37,6 +39,8 @@
 
     
 5. Data Visualization and Dashboards with Excel and Cognos
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
    
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -48,6 +52,8 @@
 
     
 7. Python for Data Science, AI & Development
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
    
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -58,6 +64,8 @@
   ✅
   
 9. Python Project for Data Science
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
     
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -68,6 +76,8 @@
   ✅
   
 9. Databases and SQL for Data Science with Python
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
     
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -78,6 +88,8 @@
   ✅
   
 10. Data Analysis with Python
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
     
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -88,6 +100,8 @@
   ✅
   
 11. Data Visualization with Python
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
     
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -96,7 +110,10 @@
   ✅
   
   ✅
+  
 12. IBM Data Analyst Capstone Project
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
 
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -107,6 +124,8 @@
   ✅
   
 14. Generative AI: Enhance your Data Analytics Career
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
     
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
@@ -117,6 +136,8 @@
   ✅
   
 15. Data Analyst Career Guide and Interview Preparation
+
+**Skills: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization**
     
   ✅ Explain what Data Analytics is and the key steps in the Data Analytics process
 
